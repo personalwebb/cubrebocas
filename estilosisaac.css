@@ -1,0 +1,100 @@
+*{
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.cabeza{
+    background-image: url(fondo1isaac.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-position: center center;
+    color: aliceblue;
+    padding: 350px;
+}
+
+h1{
+    font-size: 100px;
+    padding: 20px;
+}
+
+h2{
+    font-size: 40px;
+    padding: 40px 200px;
+    color: black;
+}
+
+h3{
+    font-size: 30px;
+    padding: 40px 200px;
+    color: black;
+}
+
+p{
+    font-size: 25px;
+    padding: 20px 
+    200px;
+    text-align: justify;
+    color: black;
+}
+
+ol li{
+    font-size: 25px;
+    padding: 20px 50px;
+    text-align: justify;
+    color: black;
+}
+
+.referencia1{
+    margin-top: 0px;
+    display: flex;
+    padding: 20px 80px;
+    color: black;
+}
+
+.referencia2{
+    margin-top: 0px;
+    display: flex;
+    padding: 20px 80px;
+    color: black;
+}
+
+.referencia3{
+    display: flex; 
+}
+
+.img{
+    padding-left: 10px;
+}
+
+.lista{
+    font-size: 25px;
+    padding: 20px 50px;
+    text-align: justify;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
